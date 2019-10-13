@@ -134,7 +134,7 @@ We have to keep in mind that our dataset represents a random sample drawn from a
 
 ![](images/model-evaluation-selection-part1/iris-dist.png){: .center-image  .image-80 }
 
-(The source code can be found [here](https://github.com/rasbt/pattern_classification/blob/master/data_viz/model-evaluation-articles/iris-random-dist.ipynb).)
+(The source code can be found [here](https://github.com/rowennetfinder555/Classification/blob/master/data_viz/model-evaluation-articles/iris-random-dist.ipynb).)
 
 When we randomly divide the dataset into training and test sets, we violate the assumption of *statistical independence*. The Iris dataset consists of 50 Setosa, 50 Versicolor, and 50 Virginica flowers; the flower species are distributed uniformly:
 

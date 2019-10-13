@@ -1,7 +1,7 @@
 Sebastian Raschka  
 Last updated: 07/14/2014
 
-[back to the main [pattern_classification repository](https://github.com/rasbt/pattern_classification)]
+[back to the main [pattern_classification repository](https://github.com/rowennetfinder555/Classification)]
 
 # Free Machine Learning eBooks
 

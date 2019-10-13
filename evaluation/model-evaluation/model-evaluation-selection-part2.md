@@ -13,7 +13,7 @@ In this article, we will look at some advanced techniques for model evaluation. 
 2. We want to increase the predictive performance by tweaking the learning algorithm and selecting the best-performing model from a given hypothesis space.
 3. We want to identify the machine learning algorithm that is best-suited for the problem at hand; thus, we want to compare different algorithms, selecting the best-performing one as well as the best-performing model from the algorithm’s hypothesis space.
 
-(The code for producing the plots shown in this article can be found in the Jupyter notebook on [GitHub](https://github.com/rasbt/pattern_classification/blob/master/data_viz/model-evaluation-articles/model-eval-kfold.ipynb)).
+(The code for producing the plots shown in this article can be found in the Jupyter notebook on [GitHub](https://github.com/rowennetfinder555/Classification/blob/master/data_viz/model-evaluation-articles/model-eval-kfold.ipynb)).
 
 
 ## Resampling

@@ -1,4 +1,4 @@
-[[<- back](https://github.com/rasbt/pattern_classification)] to the pattern_classification repository
+[[<- back](https://github.com/rowennetfinder555/Classification)] to the pattern_classification repository
 
 
 Sebastian Raschka  

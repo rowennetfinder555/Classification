@@ -68,7 +68,7 @@ Pattern classification tasks can be grouped into two main sub-categories: Superv
 The figure above shows an exemplary classification task for samples with two random variables; the training data (with class labels) are shown in the scatter plots. The red-dotted lines symbolize linear (left) or quadratic (right) decision boundaries that are used to define the decision regions R1 and R2. New observations will be assigned the class labels "w1" or "w2" depending on in which decision region they will fall into. We can already assume that our classification of unseen instances won't be "perfect" and some percentage samples will likely be mis-classified.
 
 <hr>
-<font size=1.5em>The respective IPython notebooks can be found in the ["Statistical Pattern Classification Examples"](https://github.com/rasbt/pattern_classification#statistical-pattern-classification-examples) section in my pattern classification repository if you are interested in how the decision boundaries were computed.</font>
+<font size=1.5em>The respective IPython notebooks can be found in the ["Statistical Pattern Classification Examples"](https://github.com/rowennetfinder555/Classification#statistical-pattern-classification-examples) section in my pattern classification repository if you are interested in how the decision boundaries were computed.</font>
 <hr>
 
 In contrast, unsupervised learning task deal with unlabeled instances, and the classes have to be inferred from the unstructured dataset. Typically, unsupervised learning employs a clustering technique in order to group the unlabeled samples based on certain similarity (or distance) measures.  
@@ -114,7 +114,7 @@ Below are just a few examples of more or less useful visualizations of the Iris 
 ![](./images/matplotlib_ex.jpg)
 
 <hr>
-<font size=1.5em>The code that was used to create these plots can be found in the IPython notebook [Matplotlib examples - Visualization techniques for exploratory data analysis](http://nbviewer.ipython.org/github/rasbt/pattern_classification/blob/master/resources/matplotlib_viz_gallery.ipynb).</font>
+<font size=1.5em>The code that was used to create these plots can be found in the IPython notebook [Matplotlib examples - Visualization techniques for exploratory data analysis](http://nbviewer.ipython.org/github/rowennetfinder555/Classification/blob/master/resources/matplotlib_viz_gallery.ipynb).</font>
 <hr>
 
 Looking at those plots above, the scatter plots and (1D) histograms in particular, we can already see that the petal dimensions contain more discriminatory information than the sepal widths and lengths based on the smaller overlap between the three different flower classes. This information could, for example, be used for feature selection in order to remove noise and reduce the size of our dataset.
@@ -336,4 +336,4 @@ Although this review was published almost 15 years ago, it is still an excellent
 
 <hr>
 
-If this is not for you, you can browse through my little [collection of free ebooks](https://github.com/rasbt/pattern_classification/blob/master/resources/machine_learning_ebooks.md) from the areas of machine learning, pattern classification, and artificial intelligence.
+If this is not for you, you can browse through my little [collection of free ebooks](https://github.com/rowennetfinder555/Classification/blob/master/resources/machine_learning_ebooks.md) from the areas of machine learning, pattern classification, and artificial intelligence.
